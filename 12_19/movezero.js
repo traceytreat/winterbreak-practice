@@ -7,5 +7,5 @@ function moveZeros(arr) {
 
 //some test cases:
 console.log(moveZeros([1,2,0,1,0,1,0,3,0,1]));
-console.log(moveZeros([1, 2, 1, 1, 3, 1, 0, 0, 0, 0]));
+console.log(moveZeros([0,3,4,2,7,0,4,3,2]));
 
