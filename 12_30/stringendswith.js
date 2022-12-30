@@ -2,6 +2,8 @@
 
 //My solution
 function solution(str, ending){
+  //Another solution:
+  //return str.endsWith(ending);
   return str.length >= ending.length && (str.slice(str.length - ending.length) == ending) 
 }
 
